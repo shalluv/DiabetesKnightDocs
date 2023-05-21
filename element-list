@@ -1,0 +1,14 @@
+module:diabetesKnight
+application
+drawing
+entity
+entity.base
+input
+interfaces
+item
+item.derived
+logic
+maps
+sharedObject
+ui
+utils
